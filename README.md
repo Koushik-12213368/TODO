@@ -128,7 +128,7 @@ TODO/
 
 ## 📚 Credits & License
 
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by Koushik
 - MIT License
 
 ---
