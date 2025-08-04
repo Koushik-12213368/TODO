@@ -31,7 +31,7 @@ A beautiful, full-featured Todo app built with the MERN stack, Redux Toolkit, an
 
 ### 1. **Clone & Install**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Koushik-12213368/TODO
 cd TODO
 npm install
 cd client
